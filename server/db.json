@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "isbn": "9781593275846",
+      "title": "Eloquent JavaScript, Second Edition",
+      "pages": "479",
+      "author": "Marijn Haverbeke",
+      "website": "http://eloquentjavascript.net/",
+      "publisher": "No Starch Press",
+      "published": "2014-12-14T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "isbn": "9781449331818",
+      "title": "Learning JavaScript Design Patterns",
+      "subtitle": "A JavaScript and jQuery Developer's Guide",
+      "author": "Addy Osmani",
+      "published": "2012-07-01T00:00:00.000Z",
+      "publisher": "O'Reilly Media",
+      "pages": 254,
+      "website": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/"
+    }
+  ],
+  "authors": [
+    {
+      "id": "2",
+      "name": "Addy Osmani",
+      "email": "teste_10@gmail.com",
+      "dateBirth": "2012-08-30T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Eric Elliott",
+      "email": "teste_02@gmail.com",
+      "dateBirth": "2014-06-12T00:00:00.000Z"
+    },    
+    {
+	  "id": "3",
+      "name": "Marijn Haverbeke",
+      "email": "teste_03@hotmail.com",
+      "dateBirth": "2019-03-22T18:02:44.786Z",
+      "id": "HDWeJQY"
+    }
+  ]
+}
